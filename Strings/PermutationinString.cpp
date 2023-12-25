@@ -1,5 +1,8 @@
 //QUESTION LINK
 // https://leetcode.com/problems/permutation-in-string/
+// include<std.h>
+#include <bits/stdc++.h>
+using namespace std;
 
 class Solution{
 private:

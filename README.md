@@ -3,7 +3,6 @@
 Welcome to Love-Babbar-DSA! 🎉 Here, you'll find enchanting solutions to the 450 Data Structures and Algorithms (DSA) questions from the LOVE BABBAR DSA Sheet. Whether you're seeking magical insights or troubleshooting your enchanted code, this repository is your guide through the wizardry of problem-solving.
 
 ## Table of Contents
-
 1. [Arrays](Arrays)
 2. [Matrix](Matrix)
 3. [Strings](Strings)

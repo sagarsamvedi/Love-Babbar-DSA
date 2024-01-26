@@ -7,7 +7,6 @@ using namespace std;
 
 bool checkPalindrome(string s) {
     string temp = "";
-
     // remove extra characters
     int s_len = s.size();
     for(int i = 0; i < s_len; i++) {

@@ -1,22 +1,22 @@
-# Love-Babbar-DSA 🚀
+# Striver AtoZ DSA Sheet 🚀
 
-Welcome to Love-Babbar-DSA! 🎉 Here, you'll find enchanting solutions to the 450 Data Structures and Algorithms (DSA) questions from the LOVE BABBAR DSA Sheet. Whether you're seeking magical insights or troubleshooting your enchanted code, this repository is your guide through the wizardry of problem-solving.
+Welcome to Striver AtoZ DSA Sheet 🎉 Here, you'll find enchanting solutions to the 450 Data Structures and Algorithms (DSA) questions from the Striver AtoZ DSA Sheet. Whether you're seeking magical insights or troubleshooting your enchanted code, this repository is your guide through the wizardry of problem-solving.
 
 ## Table of Contents
-1. [Arrays](Arrays)
+1. [Learn the basics](LearntTheBasics)
 2. [Matrix](Matrix)
 3. [Strings](Strings)
 4. [Searching and Sorting](SearchingandSorting)
-5. [Linked List](LinkedList)
-6. [Bit Manipulation](BitManipulation)
-7. [Greedy](Greedy)
+5. [Linked List](LinkedList) 
+6. [Bit Manipulation](BitManipulation) 
+7. [Greedy](Greedy) 
 8. [Backtracking](Backtracking)
-9. [Dynamic Programming](DynamicProgramming)
-10. [Stacks and Queues](StacksandQueues)
-11. [Binary Trees](BinaryTrees)
+9. [Dynamic Programming](DynamicProgramming) 
+10. [Stacks and Queues](StacksandQueues) 
+11. [Binary Trees](BinaryTrees) 
 12. [Binary Search Tree](BinarySearchTree)
-13. [Graphs](Graphs)
-14. [Heap](Heap)
+13. [Graphs](Graphs) 
+14. [Heap](Heap) 
 15. [Trie](Trie)
 
 
@@ -32,7 +32,7 @@ Become a sorcerer's apprentice and contribute your magical solutions! ✨ Feel f
 
 ## Acknowledgments
 
-- Special thanks to LOVE BABBAR for the magical DSA Sheet: [https://450dsa.com/].
+- Special thanks to Striver for the magical DSA Sheet: https://takeuforward.org/strivers-a2z-dsa-course/strivers-a2z-dsa-course-sheet-2.
 
 May your code be bug-free, and your journey through DSA Wonderland be filled with triumphs!
 

@@ -4,7 +4,7 @@ Welcome to Striver AtoZ DSA Sheet 🎉 Here, you'll find enchanting solutions to
 
 ## Table of Contents
 
-1. [Learn the Basics](#learn-the-basics)
+1. [Learn the Basics](learn-the-basics)
 2. [Important Sorting Techniques](#important-sorting-techniques)
 3. [Array Problems (Easy -> Medium -> Hard)](#array-problems-easy--medium--hard)
 4. [Binary Search (1D, 2D Arrays, Search Space)](#binary-search-1d-2d-arrays-search-space)

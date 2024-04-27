@@ -1,4 +1,3 @@
-
 number = int(input())
 evenSum = 0
 oddSum = 0

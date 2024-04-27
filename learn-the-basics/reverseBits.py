@@ -5,3 +5,4 @@ def reverseBits(n):
         reversed_number |= n & 1
         n >>= 1
     return reversed_number
+    

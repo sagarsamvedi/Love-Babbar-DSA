@@ -3,6 +3,7 @@
 # Problem statement
 # Sort the given unsorted array 'arr' of size 'N' in non-decreasing order using the selection sort algorithm.
 
+from typing import List
 
 def selectionSort(arr: List[int]) -> None: 
     

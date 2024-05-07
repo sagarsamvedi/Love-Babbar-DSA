@@ -13,7 +13,7 @@ def bubbleSort(arr: List[int], n: int):
     for i in range(n-1):
         if arr[i] > arr[i + 1]:
             arr[i] , arr[i + 1] = arr[i+1], arr[i]
-    bubbleSort(arr,n-1)\
+    bubbleSort(arr,n-1)
         
 arr = [64, 34, 25, 12, 22, 11, 90]
 n = len(arr)
